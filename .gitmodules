@@ -1,0 +1,6 @@
+[submodule "Build-with-Python"]
+	path = Build-with-Python
+	url = https://github.com/anjan-iixi/Build-with-Python.git
+[submodule "Website-Data-Analysis-With-Python"]
+	path = Website-Data-Analysis-With-Python
+	url = https://github.com/anjan-iixi/Website-Data-Analysis-With-Python.git
