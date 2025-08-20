@@ -18,5 +18,5 @@ These foundational projects have been archived to maintain a clean and focused p
 - [Build-with-Python](https://github.com/anjan-iixi/Build-with-Python)  
   **A collection of beginner to intermediate Python projects covering automation, basic algorithms.**
 
-- [Website-Data-Analysis-With-Python](https://github.com/anjan.iixi/Website-Data-Analysis-With-Python)  
+- [Website-Data-Analysis-With-Python](https://github.com/anjan-iixi/Website-Data-Analysis-With-Python)  
  End-to-end website user behaviour analysis in Python using Pandas, NumPy & Matplotlib.**
