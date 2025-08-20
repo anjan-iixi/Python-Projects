@@ -10,7 +10,7 @@ This project collects and analyzes public metrics for six popular Bengali audio-
 
 * Retrieve channel-level metrics: **Subscribers**, **Total Views**, **Total Videos**.
 * Export results to CSV (`Mirchi Bangla(video_details).csv`).
-* Visual comparisons using Matplotlib/Seaborn (bar charts, histograms, scatterplots).
+* Visual comparisons using Matplotlib/Seaborn (bar charts).
 * Focused video-level analysis for **Mirchi Bangla** (top videos, view distributions, like/view ratios).
 * Reproducible Python notebook/scripts for data collection and visualization.
 
@@ -73,6 +73,3 @@ Generated charts and CSV files will be saved in the repository's output folder.
 * Public API access limits apply; use API key responsibly.
 * If scraping, respect YouTube's terms of service and rate limits.
 
----
-
-If you want, I can add: a `requirements.txt`, example notebook cells showing the API call, or short usage snippets for the main functions.
