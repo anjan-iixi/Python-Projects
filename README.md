@@ -9,6 +9,9 @@ Welcome to my curated collection of Python projects — each designed to demonst
 - 🧠 Projects spanning beginner to advanced levels  
 - 🗂 Archived submodules preserved for reference and learning
 
+🛜 1. [Python Project to Scrape YouTube using API](./Scrape%20Youtube%20Using%20API%20By%20Python)
+  **[A Python-powered Project to Scrape YouTube data seamlessly using the YouTube API for Insights and Analysis.]**
+
 ---
 <details>
   <summary>📁 Archived Submodules</summary>
@@ -20,3 +23,6 @@ These foundational projects have been archived to maintain a clean and focused p
 
 - [Website-Data-Analysis-With-Python](https://github.com/anjan-iixi/Website-Data-Analysis-With-Python)  
  End-to-end website user behaviour analysis in Python using Pandas, NumPy & Matplotlib.**
+<details>
+
+ ---
