@@ -73,3 +73,9 @@ Generated charts and CSV files will be saved in the repository's output folder.
 * Public API access limits apply; use API key responsibly.
 * If scraping, respect YouTube's terms of service and rate limits.
 
+## Summary
+
+Using the **YouTube Data API** in Python is straightforward: you enable the API in Google Cloud, install the client library, and then call methods like channels().list to retrieve channel stats. The returned **JSON includes keys** for subscriber count and total views, which we parse into Python integers. Finally, we display or save these results. This approach avoids fragile web scraping and uses Google’s approved API, ensuring a reliable solution that can be showcased on your **GitHub portfolio**.
+
+**Sources:** Official YouTube Data API documentation and tutorials (see especially the Python examples for channels().list), which demonstrate exactly how to fetch and read channel statistics using Python.
+
